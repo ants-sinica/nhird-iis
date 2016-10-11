@@ -8,3 +8,15 @@
 * Scalable.
 * Extensible with client-side add-ons and service-side plugins.
 
+Documentation
+-------------
+
+.. toctree::
+   :maxdepth: 2
+
+   tutorial
+   apply
+   web
+   dataset
+   blocks
+   shortcuts

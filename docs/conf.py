@@ -69,4 +69,7 @@ latex_documents = [
 ]
 
 # -- Options for manual page output --------------------------------------------
-man_pages = []
+man_pages = [
+    ('index', 'NHIRD-IIS', 'NHIRD-IIS documentation', ['IIS Academia Sinica'], 1),
+
+]
