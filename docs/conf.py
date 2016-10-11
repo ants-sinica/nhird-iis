@@ -64,7 +64,9 @@ def setup(app):
 
 
 # -- Options for LaTeX output --------------------------------------------------
-latex_documents = []
+latex_documents = [
+    ('index', 'NHIRD-IIS.tex', 'NHIRD-IIS Documentation','manual'),
+]
 
 # -- Options for manual page output --------------------------------------------
 man_pages = []
