@@ -13,15 +13,15 @@ templates_path = ['_templates']
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.ifconfig', 'sphinx.ext.extlinks']
 source_suffix = '.rst'
 master_doc = 'index'
-project = 'Chrowler'
+project = 'NHIRD-IIS'
 copyright = '2016, IIS, Academia Sinica'
 exclude_patterns = ['_build']
 release = __version__
 version = '.'.join(release.split('.')[:1])
 last_stable = '1.0.0'
-rst_prolog = '''
-.. |last_stable| replace:: :chrowler-doc:`{0}`
-'''.format(last_stable)
+#rst_prolog = '''
+#.. |last_stable| replace:: :nhird-iis-doc:`{0}`
+#'''.format(last_stable)
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
@@ -44,7 +44,7 @@ if not on_rtd:
 html_static_path = ['static']
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Chrowlerdoc'
+htmlhelp_basename = 'NHIRDIISdoc'
 
 html_use_smartypants = True
 
