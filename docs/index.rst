@@ -1,5 +1,5 @@
 資訊所健康雲子計畫 |release|
-======================
+=============================
 
 
 中研院資訊所健康雲計畫
@@ -8,7 +8,7 @@
 * Scalable.
 * Extensible with client-side add-ons and service-side plugins.
 
-Documentation
+目錄
 -------------
 
 .. toctree::
