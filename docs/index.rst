@@ -9,7 +9,7 @@
 
 
 .. toctree:: 
-    :maxdepth:1
+    :maxdepth: 1
 
     Accounts
     工作區
