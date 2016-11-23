@@ -1,22 +1,22 @@
-資訊所健康雲子計畫 |release|
-=============================
+
+.. _h106d6a60386b4471802c17574203f54:
+
+健康雲巨量資訊技術平台
+**********************
 
 
-中研院資訊所健康雲計畫
+.. toctree:: 
+    :maxdepth: 2
 
-* Easy installation.
-* Scalable.
-* Extensible with client-side add-ons and service-side plugins.
+    Accounts
+    資料集
 
-目錄
--------------
+.. _h174fb648377959437b5c1f697c1c40:
 
-.. toctree::
-   :maxdepth: 2
+計畫目標
+========
 
-   tutorial
-   apply
-   web
-   dataset
-   blocks
-   shortcuts
+.. _h174fb648377959437b5c1f697c1c40:
+
+計畫概況
+--------
