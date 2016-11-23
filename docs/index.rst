@@ -3,11 +3,6 @@
     :maxdepth: 2
 
     Accounts
-    工作區
-    資料集
-    執行查詢
-    簡稱
-    自動測試
 
 \ |IMG1|\ 
 
