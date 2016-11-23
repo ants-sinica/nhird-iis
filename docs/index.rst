@@ -9,11 +9,12 @@
 
 
 .. toctree:: 
-    :maxdepth: 1
+    :maxdepth: 2
 
     Accounts
     工作區
     資料集
+    方塊
     執行查詢
     簡稱
     自動測試
