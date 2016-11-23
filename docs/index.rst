@@ -1,8 +1,11 @@
+\ |IMG1|\ 
 
 .. _h106d6a60386b4471802c17574203f54:
 
 健康雲巨量資訊技術平台
 **********************
+
+中央研究院資訊科學研究所
 
 
 .. toctree:: 
@@ -35,3 +38,7 @@
 .. _`資料集`: http://nhird-iis.readthedocs.io/en/latest/dataset.html
 .. _`功能拼圖`: http://nhird-iis.readthedocs.io/en/latest/blocks.html
 .. _`簡稱功能`: http://nhird-iis.readthedocs.io/en/latest/shortcuts.html
+
+.. |IMG1| image:: static/index_1.png
+   :height: 82 px
+   :width: 82 px
