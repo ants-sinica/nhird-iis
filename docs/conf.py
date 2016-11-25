@@ -26,6 +26,20 @@ html_theme = 'default'
 
 html_static_path = ['static']
 
+# Output file base name for HTML help builder.
+htmlhelp_basename = 'nhird-iis'
+
+#html_use_smartypants = True
+
+# If false, no module index is generated.
+#html_use_modindex = False
+
+# If false, no index is generated.
+#html_use_index = False
+
+# If true, links to the reST sources are added to the pages.
+#html_show_sourcelink = False
+
 def setup(app):
     # overrides for wide tables in RTD theme
     app.add_stylesheet('theme_overrides.css') # path relative to static
