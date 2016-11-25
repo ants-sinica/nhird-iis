@@ -26,9 +26,9 @@ html_theme = 'default'
 
 html_static_path = ['static']
 
-latex_documents = [
- ('index', 'nhird-iis.tex', 'NHIRD-IIS Documentation','IIS, Academia Sinica','manual'),
-]
+#latex_documents = [
+# ('index', 'nhird-iis.tex', 'NHIRD-IIS Documentation','IIS, Academia Sinica','manual'),
+#]
 
 def setup(app):
     # overrides for wide tables in RTD theme
