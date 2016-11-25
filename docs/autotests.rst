@@ -58,10 +58,10 @@
 #. 假設自動測試正在執行任務A，則自動測試被停止時，任務A也會被停止。
 
 
-.. |IMG1| image:: static/auttests_1.png
+.. |IMG1| image:: static/autotests_1.png
    :height: 308 px
    :width: 293 px
 
-.. |IMG2| image:: static/auttests_2.png
+.. |IMG2| image:: static/autotests_2.png
    :height: 376 px
    :width: 629 px
