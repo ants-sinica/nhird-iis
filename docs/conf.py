@@ -10,6 +10,7 @@ sys.path.append(os.path.abspath(os.pardir))
 __version__ = '1.0'
 
 # -- General configuration -----------------------------------------------------
+extensions = ['sphinx.ext.autodoc', 'sphinx.ext.ifconfig', 'sphinx.ext.extlinks']
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'nhird-iis'
