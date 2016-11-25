@@ -16,9 +16,9 @@ master_doc = 'index'
 project = 'nhird-iis'
 copyright = '2016, IIS, Academia Sinica'
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'sphinx'
+#pygments_style = 'sphinx'
 
-extlinks = {}
+#extlinks = {}
 
 # -- Options for HTML output ---------------------------------------------------
 
@@ -26,7 +26,7 @@ html_theme = 'default'
 
 html_static_path = ['static']
 
-latex_documents = []
+#latex_documents = []
 
 def setup(app):
     # overrides for wide tables in RTD theme
