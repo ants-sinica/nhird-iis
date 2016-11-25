@@ -10,7 +10,7 @@ sys.path.append(os.path.abspath(os.pardir))
 __version__ = '1.0'
 
 # -- General configuration -----------------------------------------------------
-extensions = ['sphinx.ext.autodoc', 'sphinx.ext.ifconfig', 'sphinx.ext.extlinks']
+#extensions = ['sphinx.ext.autodoc', 'sphinx.ext.ifconfig', 'sphinx.ext.extlinks']
 source_suffix = '.rst'
 master_doc = 'index'
 project = 'nhird-iis'
@@ -26,7 +26,9 @@ html_theme = 'default'
 
 html_static_path = ['static']
 
-#latex_documents = []
+latex_documents = [
+ ('index', 'nhird-iis.tex', 'NHIRD-IIS Documentation','IIS, Academia Sinica','manual'),
+]
 
 def setup(app):
     # overrides for wide tables in RTD theme
