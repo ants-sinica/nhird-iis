@@ -29,7 +29,7 @@ html_static_path = ['static']
 # Output file base name for HTML help builder.
 htmlhelp_basename = 'nhird-iis'
 
-#html_use_smartypants = True
+html_use_smartypants = True
 
 # If false, no module index is generated.
 #html_use_modindex = False
