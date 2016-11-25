@@ -35,10 +35,10 @@ html_use_smartypants = True
 html_use_modindex = False
 
 # If false, no index is generated.
-#html_use_index = False
+html_use_index = False
 
 # If true, links to the reST sources are added to the pages.
-#html_show_sourcelink = False
+html_show_sourcelink = False
 
 def setup(app):
     # overrides for wide tables in RTD theme
