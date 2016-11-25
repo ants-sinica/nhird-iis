@@ -15,7 +15,7 @@ master_doc = 'index'
 project = 'NHIRD-IIS'
 copyright = '2016, IIS, Academia Sinica'
 # The name of the Pygments (syntax highlighting) style to use.
-pygments_style = 'python'
+pygments_style = 'sphinx'
 
 extlinks = {}
 
