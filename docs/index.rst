@@ -11,12 +11,12 @@
     :hidden:
 
     Accounts
-    autotests
     blocks
     datasets
     doquery
     shortcuts
-    workspace
+    Workspace
+    autotests
 
 .. _h174fb648377959437b5c1f697c1c40:
 
