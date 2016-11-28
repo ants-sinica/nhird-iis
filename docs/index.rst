@@ -10,12 +10,12 @@
     :maxdepth: 2
 
     Accounts
-    工作區
-    資料集
-    方塊
-    執行查詢
-    簡稱
-    自動測試
+    autotests
+    blocks
+    datasets
+    doquery
+    shortcuts
+    workspace
 
 .. _h174fb648377959437b5c1f697c1c40:
 
