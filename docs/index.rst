@@ -25,7 +25,10 @@
 
 \ |IMG2|\ 
 
-使用者可以利用本平台提供的Google Blockly方塊，設定過濾查詢條件，並查詢資料庫內的紀錄。
+本平台協助使用者產生資料庫查詢，使用者可以利用本平台提供的Google Blockly方塊，設定過濾查詢條件，並查詢資料庫內的紀錄。
+
+
+.. bottom of content
 
 .. |IMG1| image:: static/index_1.png
    :height: 82 px
