@@ -327,130 +327,130 @@ Block: Relative Occurrence
 
 .. bottom of content
 
-.. |IMG1| image:: static/Healthcare_Blockly_1.png
+.. |IMG1| image:: static/HealthcareBlockly-V7_1.png
    :height: 69 px
    :width: 116 px
 
-.. |IMG2| image:: static/Healthcare_Blockly_2.png
+.. |IMG2| image:: static/HealthcareBlockly-V7_2.png
    :height: 42 px
    :width: 269 px
 
-.. |IMG3| image:: static/Healthcare_Blockly_3.png
+.. |IMG3| image:: static/HealthcareBlockly-V7_3.png
    :height: 36 px
    :width: 232 px
 
-.. |IMG4| image:: static/Healthcare_Blockly_4.png
+.. |IMG4| image:: static/HealthcareBlockly-V7_4.png
    :height: 226 px
    :width: 190 px
 
-.. |IMG5| image:: static/Healthcare_Blockly_5.png
+.. |IMG5| image:: static/HealthcareBlockly-V7_5.png
    :height: 36 px
    :width: 144 px
 
-.. |IMG6| image:: static/Healthcare_Blockly_6.png
+.. |IMG6| image:: static/HealthcareBlockly-V7_6.png
    :height: 42 px
    :width: 169 px
 
-.. |IMG7| image:: static/Healthcare_Blockly_7.png
+.. |IMG7| image:: static/HealthcareBlockly-V7_7.png
    :height: 130 px
    :width: 116 px
 
-.. |IMG8| image:: static/Healthcare_Blockly_8.png
+.. |IMG8| image:: static/HealthcareBlockly-V7_8.png
    :height: 128 px
    :width: 221 px
 
-.. |IMG9| image:: static/Healthcare_Blockly_9.png
+.. |IMG9| image:: static/HealthcareBlockly-V7_9.png
    :height: 170 px
    :width: 477 px
 
-.. |IMG10| image:: static/Healthcare_Blockly_10.png
+.. |IMG10| image:: static/HealthcareBlockly-V7_10.png
    :height: 44 px
    :width: 132 px
 
-.. |IMG11| image:: static/Healthcare_Blockly_11.png
+.. |IMG11| image:: static/HealthcareBlockly-V7_11.png
    :height: 37 px
    :width: 109 px
 
-.. |IMG12| image:: static/Healthcare_Blockly_12.png
+.. |IMG12| image:: static/HealthcareBlockly-V7_12.png
    :height: 46 px
    :width: 208 px
 
-.. |IMG13| image:: static/Healthcare_Blockly_13.png
+.. |IMG13| image:: static/HealthcareBlockly-V7_13.png
    :height: 45 px
    :width: 301 px
 
-.. |IMG14| image:: static/Healthcare_Blockly_14.png
+.. |IMG14| image:: static/HealthcareBlockly-V7_14.png
    :height: 40 px
    :width: 109 px
 
-.. |IMG15| image:: static/Healthcare_Blockly_15.png
+.. |IMG15| image:: static/HealthcareBlockly-V7_15.png
    :height: 40 px
    :width: 221 px
 
-.. |IMG16| image:: static/Healthcare_Blockly_16.png
+.. |IMG16| image:: static/HealthcareBlockly-V7_16.png
    :height: 58 px
    :width: 112 px
 
-.. |IMG17| image:: static/Healthcare_Blockly_17.png
+.. |IMG17| image:: static/HealthcareBlockly-V7_17.png
    :height: 70 px
    :width: 276 px
 
-.. |IMG18| image:: static/Healthcare_Blockly_18.png
+.. |IMG18| image:: static/HealthcareBlockly-V7_18.png
    :height: 40 px
    :width: 84 px
 
-.. |IMG19| image:: static/Healthcare_Blockly_19.png
+.. |IMG19| image:: static/HealthcareBlockly-V7_19.png
    :height: 50 px
    :width: 272 px
 
-.. |IMG20| image:: static/Healthcare_Blockly_20.png
+.. |IMG20| image:: static/HealthcareBlockly-V7_20.png
    :height: 73 px
    :width: 336 px
 
-.. |IMG21| image:: static/Healthcare_Blockly_21.png
+.. |IMG21| image:: static/HealthcareBlockly-V7_21.png
    :height: 64 px
    :width: 326 px
 
-.. |IMG22| image:: static/Healthcare_Blockly_22.png
+.. |IMG22| image:: static/HealthcareBlockly-V7_22.png
    :height: 41 px
    :width: 130 px
 
-.. |IMG23| image:: static/Healthcare_Blockly_23.png
+.. |IMG23| image:: static/HealthcareBlockly-V7_23.png
    :height: 37 px
    :width: 128 px
 
-.. |IMG24| image:: static/Healthcare_Blockly_24.png
+.. |IMG24| image:: static/HealthcareBlockly-V7_24.png
    :height: 34 px
    :width: 248 px
 
-.. |IMG25| image:: static/Healthcare_Blockly_25.png
+.. |IMG25| image:: static/HealthcareBlockly-V7_25.png
    :height: 156 px
    :width: 125 px
 
-.. |IMG26| image:: static/Healthcare_Blockly_26.png
+.. |IMG26| image:: static/HealthcareBlockly-V7_26.png
    :height: 384 px
    :width: 424 px
 
-.. |IMG27| image:: static/Healthcare_Blockly_27.png
+.. |IMG27| image:: static/HealthcareBlockly-V7_27.png
    :height: 164 px
    :width: 274 px
 
-.. |IMG28| image:: static/Healthcare_Blockly_28.png
+.. |IMG28| image:: static/HealthcareBlockly-V7_28.png
    :height: 36 px
    :width: 321 px
 
-.. |IMG29| image:: static/Healthcare_Blockly_29.png
+.. |IMG29| image:: static/HealthcareBlockly-V7_29.png
    :height: 82 px
    :width: 348 px
 
-.. |IMG30| image:: static/Healthcare_Blockly_30.png
+.. |IMG30| image:: static/HealthcareBlockly-V7_30.png
    :height: 126 px
    :width: 244 px
 
-.. |IMG31| image:: static/Healthcare_Blockly_31.png
+.. |IMG31| image:: static/HealthcareBlockly-V7_31.png
    :height: 310 px
    :width: 633 px
 
-.. |IMG32| image:: static/Healthcare_Blockly_32.png
+.. |IMG32| image:: static/HealthcareBlockly-V7_32.png
    :height: 309 px
    :width: 601 px
