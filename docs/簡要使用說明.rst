@@ -1,0 +1,102 @@
+
+.. _h2164242e4c6048506f23311549231654:
+
+簡要使用說明
+############
+
+查詢方塊的構成有四個主要部分：資料來源、病患、個人特性及就醫紀錄，其位置及主要用途如下圖所示：
+
+\ |IMG1|\ 
+
+.. _h174fb648377959437b5c1f697c1c40:
+
+資料來源
+********
+
+\ |IMG2|\ 
+
+.. _h68017771fa7c85ef23567fe7b5a:
+
+病患與個人特性
+**************
+
+\ |IMG3|\ 
+
+.. _hd7b751276e3b5a272340277219674:
+
+就醫紀錄的條件（一）
+####################
+
+\ |IMG4|\ 
+
+.. _hd7b751276e3b5a272340277219674:
+
+就醫紀錄的條件（二）
+####################
+
+\ |IMG5|\ 
+
+欄位值比對方式
+
+\ |IMG6|\ 
+
+\ |IMG7|\ 
+
+.. _h107b581b222a161215d192667e145f:
+
+Badge:對條件的修飾
+******************
+
+限定條件發生的次數，及統計發生次數的時間範圍
+
+\ |IMG8|\ 
+
+加入Badge的方式如下圖
+
+\ |IMG9|\ 
+
+條件的先後關係
+
+\ |IMG10|\ 
+
+.. bottom of content
+
+.. |IMG1| image:: static/簡要使用說明_1.png
+   :height: 440 px
+   :width: 697 px
+
+.. |IMG2| image:: static/簡要使用說明_2.png
+   :height: 318 px
+   :width: 668 px
+
+.. |IMG3| image:: static/簡要使用說明_3.png
+   :height: 432 px
+   :width: 580 px
+
+.. |IMG4| image:: static/簡要使用說明_4.png
+   :height: 538 px
+   :width: 605 px
+
+.. |IMG5| image:: static/簡要使用說明_5.png
+   :height: 296 px
+   :width: 296 px
+
+.. |IMG6| image:: static/簡要使用說明_6.png
+   :height: 220 px
+   :width: 492 px
+
+.. |IMG7| image:: static/簡要使用說明_7.png
+   :height: 113 px
+   :width: 622 px
+
+.. |IMG8| image:: static/簡要使用說明_8.png
+   :height: 140 px
+   :width: 697 px
+
+.. |IMG9| image:: static/簡要使用說明_9.png
+   :height: 228 px
+   :width: 697 px
+
+.. |IMG10| image:: static/簡要使用說明_10.png
+   :height: 300 px
+   :width: 616 px
